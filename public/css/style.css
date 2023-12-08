@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: white;
+}
+header{
+    background-color:#64a5e2;
+    text-align: center;
+    color: white;
+    font-family: 'Berkshire Swash', serif;
+}
+.marisco{
+    width: 30px;
+    height: 30px;
+}
+
+.nav a:hover{
+    background: blue;
+    color: white;
+}
+.imagen{
+    margin: 20px;
+    width: 800px;
+    height: 600px;
+    
+}
+.fondo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inf{
+ color: black;
+font-family: 'Quintessential', serif;
+}
+footer{
+    background-color: #64a5e2;
+}
+footer h3{
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font-family: 'Kurale', serif;
+}
+footer h4{
+    color: white;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    font-family: 'Cormorant Infant', serif;
+
+}
+footer p{
+    color: rgb(250, 250, 250);
+    text-align: center;
+
+}
+p{
+    color: #000000;
+}
+#btn-1{
+    text-align: center;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+}
+.registro{
+    background-color: #7bc5f5;
+    width: 350px;
+    height:  300px;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 20px 10px;
+    text-align: center;
+}
+.log{
+    color: white;
+    font-size: 30px; 
+    text-align: center;
+    padding: 10px;
+    
+}
+.usa{
+    color: white;
+}
+.con{
+    color: white;
+    text-align: center;
+}
+.btn{
+    text-align: center;
+}
